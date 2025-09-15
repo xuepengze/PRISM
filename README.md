@@ -5,9 +5,9 @@ The code implementation of the PRISM model.
 # Method
 
 ## Graphical Abstract
-<img src="https://raw.githubusercontent.com/xuepengze/PRISM/main/docs/PRISM-1757930845711-6.png" alt="PRISM" style="zoom:98%;" />
+<img src="https://raw.githubusercontent.com/xuepengze/PRISM/main/docs/PRISM-1757930845711-6.png" alt="PRISM" style="zoom:70%;" />
 <img src="https://github.com/xuepengze/PRISM/blob/main/docs/HA-UNet.png?raw=true" alt="PRISM" style="zoom:98%;" />
-<img src="https://github.com/xuepengze/PRISM/blob/main/docs/HDMamba.png?raw=true" alt="PRISM" style="zoom:98%;" />
+<img src="https://github.com/xuepengze/PRISM/blob/main/docs/HDMamba.png?raw=true" alt="PRISM" style="zoom:110%;" />
 
 # Get Started
 
@@ -114,6 +114,7 @@ python PSNR_SSIM.py --test_y_channel
 # Contact
 
 We are glad to hear from you. If you have any questions, please feel free to contact XPZ2291811798@Gmail.com.
+
 
 
 
