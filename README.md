@@ -112,9 +112,10 @@ python test.py
 
 ```bash
 # Evaluating
-python psnr.py --test_y_channel
+python PSNR_SSIM.py --test_y_channel
 ```
 
 # Contact
 
 We are glad to hear from you. If you have any questions, please feel free to contact XPZ2291811798@Gmail.com.
+
