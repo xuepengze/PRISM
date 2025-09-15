@@ -14,14 +14,11 @@ The code implementation of the PRISM model.
   <img src="https://github.com/xuepengze/PRISM/blob/main/docs/HA-UNet.png?raw=true" width="65%">
 </p>
 
-<table align="center">
-  <tr>
-    <td width="5%"></td>
-    <td>
-      <img src="https://github.com/xuepengze/PRISM/blob/main/docs/HDMamba.png?raw=true" width="70%">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="margin-left: 5%;">
+    <img src="https://github.com/xuepengze/PRISM/blob/main/docs/HDMamba.png?raw=true" width="70%">
+  </div>
+</div>
 
 # Get Started
 
