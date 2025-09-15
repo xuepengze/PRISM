@@ -1,7 +1,5 @@
 """
-## Multi-Stage Progressive Image Restoration
-## Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ming-Hsuan Yang, and Ling Shao
-## https://arxiv.org/abs/2102.02808
+## PRISM: Progressive Rain removal with Integrated State-space Modeling
 """
 
 import numpy as np
