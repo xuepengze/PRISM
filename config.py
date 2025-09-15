@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 23 14:35:48 2019
-
-@author: aditya
-"""
 
 r"""This module provides package-wide configuration management."""
 from typing import Any, List
