@@ -15,7 +15,7 @@ The code implementation of the PRISM model.
 </p>
 
 <div align="center">
-  <div style="margin-left: 5%;">
+  <div style="margin-left: 10%;">
     <img src="https://github.com/xuepengze/PRISM/blob/main/docs/HDMamba.png?raw=true" width="70%">
   </div>
 </div>
@@ -125,5 +125,6 @@ python psnr.py --test_y_channel
 # Contact
 
 We are glad to hear from you. If you have any questions, please feel free to contact XPZ2291811798@Gmail.com.
+
 
 
