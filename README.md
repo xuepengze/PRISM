@@ -14,9 +14,11 @@ The code implementation of the PRISM model.
   <img src="https://github.com/xuepengze/PRISM/blob/main/docs/HA-UNet.png?raw=true" width="65%">
 </p>
 
-<p align="center">
-  <img src="https://github.com/xuepengze/PRISM/blob/main/docs/HDMamba.png?raw=true" width="75%">
-</p>
+<div align="center">
+  <div style="margin-left: 5%;">
+    <img src="https://github.com/xuepengze/PRISM/blob/main/docs/HDMamba.png?raw=true" width="70%">
+  </div>
+</div>
 
 # Get Started
 
@@ -123,4 +125,5 @@ python psnr.py --test_y_channel
 # Contact
 
 We are glad to hear from you. If you have any questions, please feel free to contact XPZ2291811798@Gmail.com.
+
 
