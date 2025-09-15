@@ -118,8 +118,8 @@ python test.py
 ```
 
 ```bash
-# Evaluating
-python psnr.py --test_y_channel
+# evaluating
+python PSNR_SSIM.py --test_y_channel
 ```
 
 # Contact
