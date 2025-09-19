@@ -94,7 +94,7 @@ class MultiDomainLoss(nn.Module):
     Multi-domain loss function - supports different stage-based loss strategies, using a conservative wavelet weight configuration
     
     Stage strategy (based on FreqMamba frequency domain loss, total weight controlled at 0.08):
-    - Stage1: WaveletStatisticalSpatialAttention → Wavelet weight 0.03 (auxiliary spatial enhancement)
+    - Stage1: WaveletStatisticalSpatialAttention → Wavelet weight 0.00  No wavelet loss
     - Stage2: HybridDomainMamba+WaveletBranch → Wavelet weight 0.05 (core frequency domain modeling)
     - Stage3: ORSNet without frequency domain processing → No wavelet loss
     """
@@ -113,7 +113,7 @@ class MultiDomainLoss(nn.Module):
         # Stage-based wavelet weight (based on conservative configuration suggested by user)
         # wavelet_weight parameter is deprecated, using fixed Stage weight configuration
         self.stage_wavelet_weights = {
-            "stage1": 0.0,    # 0.03 - WaveletStatisticalSpatialAttention auxiliary enhancement
+            "stage1": 0.0,    # 0.00 - Without frequency domain processing
             "stage2": 0.05,    # 0.05 - WaveletBranch core frequency domain modeling (matching FreqMamba)
             "stage3": 0.0      # 0.00 - ORSNet without frequency domain processing
         }
