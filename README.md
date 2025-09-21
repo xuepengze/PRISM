@@ -10,7 +10,7 @@ The following GIF shows the results from our PRISM model, transitioning from a r
 
 | **diagonal long rain streaks (Rain100L)** | **dense raindrops (Test1200/Test100)** |
 | :--------------------------------------: | :-----------------------------------: |
-| ![](https://raw.githubusercontent.com/xuepengze/PRISM/main/docs/rain_to_clear_line_FIXED.gif) | <img src="https://raw.githubusercontent.com/xuepengze/PRISM/main/docs/rain_to_clear_line_71.gif"  height="10%" /> |
+| ![](https://raw.githubusercontent.com/xuepengze/PRISM/main/docs/rain_to_clear_line_FIXED.gif) | <img src="https://raw.githubusercontent.com/xuepengze/PRISM/main/docs/rain_to_clear_line_71.gif"  width="80%" /> |
 
 # Method
 
@@ -135,6 +135,7 @@ python PSNR_SSIM.py --test_y_channel
 # Contact
 
 We are glad to hear from you. If you have any questions, please feel free to contact XPZ2291811798@Gmail.com.
+
 
 
 
